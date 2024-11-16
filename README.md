@@ -1,9 +1,9 @@
 # Vivid-Printing-group-4
 
-#Software Engineering
+# Software Engineering
 This the website for group 4 - Vivid Printing
  
-##Members:
+## Members:
  -Karnardia Simpson
  -Nathaniel Saunders
  -Kaydeen Tucker
